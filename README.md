@@ -1,5 +1,8 @@
 ## Oiii eu sou o Gabriel Pissoli Padrao
 
+Sou estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie, apaixonado por tecnologia e inovação.
+
+##
 
 
 <div style="display: inline_block"><br>
